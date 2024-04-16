@@ -1,0 +1,7 @@
+{
+  "toEmail": ["demo1@gmail.com", "demo2@gmail.com"],
+  "fromEmail": null,
+  "subject": "Test Subject",
+  "body": "Test Body from postman",
+  "toCC": ["demo3@gmail.com"]
+}
